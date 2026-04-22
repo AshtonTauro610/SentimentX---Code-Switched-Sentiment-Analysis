@@ -42,7 +42,7 @@ pip install torch transformers datasets peft scikit-learn matplotlib seaborn
 
 ## 📋 Usage
 
-1. **Load the Notebook:** Open `PyTorch_Code_Switched_Sentiment_Analysis.ipynb` in your preferred environment.
+1. **Load the Notebook:** Open `SentimentX_PyTorch.ipynb` or `SentimentX_HuggingFace.ipynb` in your preferred environment.
 2. **Dataset:** The notebook automatically handles the loading of the Hinglish sentiment dataset.
 3. **Training:** Follow the cells to run both the Full Fine-Tuning and PEFT/LoRA training loops.
 4. **Analysis:** Review the generated metrics and confusion matrices to see the comparison results.
